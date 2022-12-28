@@ -27,7 +27,7 @@ apt-install python3
 
 git clone https://github.com/zampate/HACK-TOOLS.git
 
-cd HACK TOOLS
+cd HACK\ TOOLS
 
 python hacktools.py
 
