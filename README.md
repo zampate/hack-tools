@@ -21,7 +21,7 @@ If you do not log in as root, log in as root or make a note of adding the "sudo"
 
 Kali Linux - Installation(Kurulum):
 ---------------------------------------------------------------------------------------------------------------------------------
-git clone https://github.com/ByCh4n/BCHackTool
+git clone https://github.com/zampate/HACK-TOOLS.git
 
 cd HACK TOOLS
 
